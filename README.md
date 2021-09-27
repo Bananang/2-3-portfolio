@@ -11,4 +11,4 @@
 
 이럴 때, 여러 개발자들이 동시에 다양한 작업을 할 수 있게 만들어 주는 기능이 바로 '브랜치(Branch)' 입니다. 각자 독립적인 작업 영역(저장소) 안에서 마음대로 소스코드를 변경할 수 있지요. 이렇게 분리된 작업 영역에서 변경된 내용은 나중에 원래의 버전과 비교해서 하나의 새로운 버전으로 만들어 낼 수 있습니다.
 
-<img src="https://backlog.com/git-tutorial/kr/img/post/stepup/capture_stepup1_1_1.png" style="text-align:center">
+<img src="https://backlog.com/git-tutorial/kr/img/post/stepup/capture_stepup1_1_1.png" style="text-align: center">
