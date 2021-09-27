@@ -1,3 +1,5 @@
+#### 출처: Powered by Backlog - 팀으로 일하는 모든 사람들에게프로젝트 관리 툴(Copyright © 2004-2021 Nulab Inc. All rights reserved.)
+
 # 선행작업
 
 ## 브랜치 생성하기
